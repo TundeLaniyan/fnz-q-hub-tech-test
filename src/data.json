@@ -1,0 +1,10 @@
+{
+    "contactList": [
+        { "firstName": "Maxwell", "lastName": "Fox", "id": 6805555502684923, "gender": "male", "age": 35, "eyeColor": "brown", "handedness": "Ambidextrous", "time": 1634680850875, "createdBy": "Mohammed Laniyan" },
+        { "firstName": "Ritchie", "lastName": "Rennell", "id": 7794283768783606, "gender": "male", "age": 31, "eyeColor": "brown", "handedness": "Right", "time": 1634680150875, "createdBy": "Mohammed Laniyan" },
+        { "firstName": "John", "lastName": "Ready", "id": 7601207004071541, "gender": "male", "age": 45, "eyeColor": "blue", "handedness": "Right", "time": 1634620850875, "createdBy": "Mohammed Laniyan" },
+        { "firstName": "Jordyn", "lastName": "Abram", "id": 4358928039456920, "gender": "male", "age": 19, "eyeColor": "blue", "handedness": "Right", "time": 1631680850875, "createdBy": "Mohammed Laniyan" },
+        { "firstName": "Myron", "lastName": "Barrett", "id": 2606654476203676, "gender": "female", "age": 23, "eyeColor": "brown", "handedness": "Ambidextrous", "time": 1634680810875, "createdBy": "Mohammed Laniyan" },
+        { "firstName": "Abilene", "lastName": "Martinson", "id": 9939777811998947, "gender": "female", "age": 67, "eyeColor": "brown", "handedness": "Left", "time": 1634600850875, "createdBy": "Mohammed Laniyan" }
+    ]
+}

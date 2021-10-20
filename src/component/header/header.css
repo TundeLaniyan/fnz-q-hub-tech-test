@@ -1,0 +1,38 @@
+.header {
+  background: #f0f0f0 0% 0% no-repeat padding-box;
+  padding: 0px 20px;
+}
+.header__navigator {
+  padding: 10px 0;
+  display: flex;
+  border-bottom: 0.05px solid grey;
+}
+.header__primary {
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #3b99fc;
+}
+.header__spliter {
+  color: #333333;
+  font: normal normal normal 13px/14px SF Pro Text;
+  padding: 0 5px;
+  font-weight: 700;
+}
+.header__secondary {
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+}
+.header__login {
+  margin-left: auto;
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+}
+.header__title {
+  text-align: left;
+  font: normal normal bold 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+  padding: 15px 0;
+}

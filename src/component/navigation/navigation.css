@@ -1,0 +1,34 @@
+.navigation {
+  width: 224px;
+  min-height: 100vh;
+  background: #3e3e3e 0% 0% no-repeat padding-box;
+}
+.navigation .logo {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  text-align: center;
+  font: normal normal 900 19px/14px SF Pro Text;
+  letter-spacing: -0.12px;
+  color: #3b99fc;
+  margin: 28px auto;
+  width: 88px;
+  height: 55px;
+  line-height: 55px;
+}
+.navigation .section {
+  display: block;
+  text-decoration: none;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  color: #3b99fc;
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  border: 0.05px solid grey;
+  line-height: 45px;
+  padding-left: 5px;
+}
+.navigation .section--active {
+  background: #f0f0f0 0% 0% no-repeat padding-box;
+  color: #3e3e3e;
+}
+.navigation .section:hover {
+  transform: translateY(-1px);
+}

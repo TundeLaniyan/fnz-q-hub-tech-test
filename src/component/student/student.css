@@ -1,0 +1,129 @@
+.student {
+  width: 350px;
+  background-color: white;
+  padding: 24px;
+}
+.student__edit {
+  background: #f7f7f7 0% 0% no-repeat padding-box;
+  width: calc(100% - 350px);
+  padding: 24px;
+}
+
+.student .search {
+  text-align: left;
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #cccccc;
+  border: none;
+  background: #f0f0f0;
+  width: calc(100% - 20px);
+  padding: 5px 10px;
+}
+.student .info {
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 0;
+}
+.student .info__left {
+  font: normal normal bold 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+}
+.student .info__right {
+  font: normal normal bold 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #3b99fc;
+  cursor: pointer;
+}
+.student .sort {
+  text-align: right;
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  line-height: 60px;
+  color: #666363;
+  border-top: 0.1px solid grey;
+  border-bottom: 0.1px solid grey;
+  font-size: 10px;
+  font-weight: 600;
+}
+.student .list {
+  padding: 20px 0;
+}
+.student .contact {
+  top: 389px;
+  left: 248px;
+  width: 330px;
+  height: 60px;
+  background: #f0f0f0 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  margin: 5px 0;
+  padding: 5px 10px;
+  display: block;
+  text-decoration: none;
+}
+.student .contact__name {
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #3b99fc;
+  margin: 10px 0;
+}
+.student .contact__id {
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+}
+.edit__label {
+  font: normal normal normal 13px/15px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+  display: block;
+  margin-bottom: 10px;
+}
+.edit__input {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #cccccc;
+  font: normal normal normal 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+  width: 258px;
+  height: 31px;
+  padding: 0 5px;
+  margin-bottom: 15px;
+}
+.radio__label {
+  font: normal normal normal 13px/15px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+  line-height: 15px;
+}
+.edit__gender {
+  margin-bottom: 10px;
+}
+.submit {
+  width: 180px;
+  height: 39px;
+  background: #019a57 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  color: #cccccc;
+  border: none;
+  cursor: pointer;
+}
+.student__new {
+  font: normal normal bold 13px/14px SF Pro Text;
+  letter-spacing: -0.08px;
+  color: #242424;
+  margin-bottom: 10px;
+}
+.error {
+  color: #d05434;
+}
+.error-input {
+  background: #f5eeec 0% 0% no-repeat padding-box;
+  border: 1px solid #d05434;
+}
+.error-message {
+  font: normal normal normal 11px/13px SF Pro Text;
+  letter-spacing: -0.07px;
+  color: #d05434;
+  margin-bottom: 10px;
+}

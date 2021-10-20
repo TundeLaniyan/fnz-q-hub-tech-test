@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  background: #f7f7f7 0% 0% no-repeat padding-box;
+}
+.body {
+  flex-grow: 1;
+}
+.body__content {
+  display: flex;
+}
